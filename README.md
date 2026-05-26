@@ -15,5 +15,5 @@ _|_|_|_|  _|    _|  _|      _|    _|_|_|  _|    _|  _|_|_|  _|_|_|
 ---
 
 <p align="center">
-  <i>on-chain · infra · mining · security</i>
+  <i>on-chain · mining</i>
 </p>
